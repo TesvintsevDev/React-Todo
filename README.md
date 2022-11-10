@@ -1,5 +1,11 @@
 # Redux-Toolkit App
 
+# 🛠 Технологии:
+
+- **ReactJS 18**
+- **Redux Toolkit** (createAsyncThunk) (хранение данных)
+- **Fetch** (отправка запроса на бэк)
+
 ## Available Scripts
 
 In the project directory, you can run:
